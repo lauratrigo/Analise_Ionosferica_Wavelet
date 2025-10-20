@@ -2,7 +2,6 @@
 
 Este projeto contém scripts MATLAB para análise de coerência wavelet entre dados ionosféricos de três estações brasileiras (Araguatins - ARG, São José dos Campos - SJC e Jataí - JAT) e dados solares do conjunto OMNI. A análise visa explorar a relação temporal e espectral entre parâmetros ionosféricos e variáveis solares utilizando técnicas avançadas de processamento de sinais.
 
----
 
 ## 🛠 Tecnologias Usadas
 
@@ -12,13 +11,11 @@ Este projeto contém scripts MATLAB para análise de coerência wavelet entre da
 
 ![MATLAB Badge](https://img.shields.io/badge/MATLAB-FF2C0A?logo=matlab&logoColor=white)
 
----
 
 ## 💡 Objetivo
 
 Realizar a análise de coerência wavelet entre sinais ionosféricos e parâmetros solares (OMNI), identificando a correlação espectro-temporal que pode indicar influência solar sobre a ionosfera em diferentes escalas temporais.
 
----
 
 ## 🚀 Funcionalidades
 
@@ -29,7 +26,6 @@ Realizar a análise de coerência wavelet entre sinais ionosféricos e parâmetr
 - Geração de gráficos de coerência wavelet para todas as combinações de variáveis
 - Visualização com eixos temporais (dias de agosto 2017) e períodos em escala logarítmica (dias)
 
----
 
 ## 📦 Como Rodar o Projeto
 
