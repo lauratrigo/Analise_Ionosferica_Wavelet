@@ -9,8 +9,7 @@ Este projeto contém scripts MATLAB para análise de coerência wavelet entre da
 - Dados ionosféricos locais (foF2, h'F, hmF2)
 - Dados solares OMNI (campos magnéticos, velocidade solar, densidade, índices geomagnéticos)
 
-![MATLAB Badge](https://img.shields.io/badge/MATLAB-FF2C0A?logo=matlab&logoColor=white)
-
+![MATLAB Badge](https://img.shields.io/badge/MATLAB-R2019b-red)
 
 ## 💡 Objetivo
 
