@@ -71,6 +71,7 @@ Eixo X apresenta datas do mês de agosto de 2017 para melhor visualização temp
 📂 Estrutura do Projeto
 
 ```
+analise_ionosferica_wavelet/
 ├── mediasionosfericasARG.mat       # Dados ionosféricos Araguatins (ARG)
 ├── mediasionosfericasSJC.mat       # Dados ionosféricos São José dos Campos (SJC)
 ├── mediasionosfericasJAT.mat       # Dados ionosféricos Jataí (JAT)
